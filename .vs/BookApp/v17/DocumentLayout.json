@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eldarna\\source\\repos\\BookApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4AD16B-3705-4094-93F2-B7562B3FECC1}|BookAppMVC\\BookAppMVC.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookappmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A4AD16B-3705-4094-93F2-B7562B3FECC1}|BookAppMVC\\BookAppMVC.csproj|solutionrelative:bookappmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4AD16B-3705-4094-93F2-B7562B3FECC1}|BookAppMVC\\BookAppMVC.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A4AD16B-3705-4094-93F2-B7562B3FECC1}|BookAppMVC\\BookAppMVC.csproj|solutionrelative:bookappmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4AD16B-3705-4094-93F2-B7562B3FECC1}|BookAppMVC\\BookAppMVC.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A4AD16B-3705-4094-93F2-B7562B3FECC1}|BookAppMVC\\BookAppMVC.csproj|solutionrelative:bookappmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookapp\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookapp\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookapp\\dtos\\bookdto\\bookputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\dtos\\bookdto\\bookputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookapp\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookapp\\dtos\\bookdto\\bookdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\dtos\\bookdto\\bookdeletedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookapp\\dtos\\bookdto\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\dtos\\bookdto\\bookgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookapp\\dtos\\bookdto\\bookpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\dtos\\bookdto\\bookpostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|c:\\users\\eldarna\\source\\repos\\bookapp\\bookapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBB70397-0653-4C92-8A98-0426E56AFEE4}|BookApp\\BookApp.csproj|solutionrelative:bookapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookAppMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BookAppMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookAppMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BookAppMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:51:41.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookAppMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookAppMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookAppMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BookAppMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-23T13:49:14.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookAppMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "BookAppMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookAppMVC\\appsettings.json",
+              "RelativeToolTip": "BookAppMVC\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T13:48:31.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookDeleteDto.cs",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\DTOs\\BookDto\\BookDeleteDto.cs",
+              "RelativeDocumentMoniker": "BookApp\\DTOs\\BookDto\\BookDeleteDto.cs",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\DTOs\\BookDto\\BookDeleteDto.cs",
+              "RelativeToolTip": "BookApp\\DTOs\\BookDto\\BookDeleteDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:12:05.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookPutDto.cs",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\DTOs\\BookDto\\BookPutDto.cs",
+              "RelativeDocumentMoniker": "BookApp\\DTOs\\BookDto\\BookPutDto.cs",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\DTOs\\BookDto\\BookPutDto.cs",
+              "RelativeToolTip": "BookApp\\DTOs\\BookDto\\BookPutDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:28:23.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookPostDto.cs",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\DTOs\\BookDto\\BookPostDto.cs",
+              "RelativeDocumentMoniker": "BookApp\\DTOs\\BookDto\\BookPostDto.cs",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\DTOs\\BookDto\\BookPostDto.cs",
+              "RelativeToolTip": "BookApp\\DTOs\\BookDto\\BookPostDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:26:13.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\DTOs\\BookDto\\BookGetDto.cs",
+              "RelativeDocumentMoniker": "BookApp\\DTOs\\BookDto\\BookGetDto.cs",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\DTOs\\BookDto\\BookGetDto.cs",
+              "RelativeToolTip": "BookApp\\DTOs\\BookDto\\BookGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:25:26.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\Program.cs",
+              "RelativeDocumentMoniker": "BookApp\\Program.cs",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\Program.cs",
+              "RelativeToolTip": "BookApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:00:12.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "BookApp\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "BookApp\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:06:52.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookApp\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookApp\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAIwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:06:12.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "BookApp\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\Entities\\Book.cs",
+              "RelativeToolTip": "BookApp\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:00:57.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "BookApp\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "BookApp\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T12:02:31.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\appsettings.json",
+              "RelativeDocumentMoniker": "BookApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\eldarna\\source\\repos\\BookApp\\BookApp\\appsettings.json",
+              "RelativeToolTip": "BookApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T12:11:50.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
